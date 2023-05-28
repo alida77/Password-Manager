@@ -1,0 +1,2 @@
+Google | x@gmail.com | Abcd1234
+Yahoo | x@email.com | Abcd1234
